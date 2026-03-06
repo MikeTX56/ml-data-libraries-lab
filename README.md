@@ -24,7 +24,7 @@ ml-data-libraries-lab/
 │
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Learning Goals
 
@@ -69,8 +69,10 @@ Examples:
 
 ## Requirements
 
-Install dependencies with: pip install -r requirements.txt
-
+Install dependencies with: 
+``` text
+ pip install -r requirements.txt
+```
 Main libraries used:
 
 - numpy
