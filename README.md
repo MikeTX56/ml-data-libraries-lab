@@ -11,6 +11,8 @@ The goal of this repository is to build strong foundations in numerical computin
 ---
 
 ## Repository Structure
+
+```text
 ml-data-libraries-lab/
 │
 ├── numpy-projects/
@@ -22,6 +24,7 @@ ml-data-libraries-lab/
 │
 ├── requirements.txt
 └── README.md
+
 
 ## Learning Goals
 
