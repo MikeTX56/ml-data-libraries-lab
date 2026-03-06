@@ -16,11 +16,11 @@ ml-data-libraries-lab/
 ├── numpy-projects/
 ├── pandas-projects/
 ├── matplotlib-projects/
+│
 ├── datasets/
 ├── utils/
 │
 ├── requirements.txt
-├── .gitignore
 └── README.md
 
 ## Learning Goals
