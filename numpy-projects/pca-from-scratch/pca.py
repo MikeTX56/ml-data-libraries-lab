@@ -41,7 +41,7 @@ if __name__ == "__main__":
     from sklearn import datasets
     import matplotlib.pyplot as plt
 
-    # Load sample data (Iris dataset)
+    # Load sample data
     data = datasets.load_iris()
     X = data.data
     y = data.target
